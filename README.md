@@ -1,4 +1,4 @@
-# PlantLens - Landing Page Conceitual 🌿
+# 🌿 PlantLens - Landing Page Conceitual
 
 Esta é a **Landing Page** do *PlantLens*, um projeto acadêmico de apresentação de um aplicativo teórico (fictício) para identificação e cuidado de plantas. O site em si foi desenvolvido puramente como um exercício de front-end, focado em criar a interface de um produto digital em um ambiente web. O aplicativo descrito na página, assim como as funcionalidades de Inteligência Artificial, não existem na realidade.
 
